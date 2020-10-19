@@ -1,0 +1,30 @@
+{
+
+	"PanelList": [
+	{
+			"PanelName": "CharactePanel",
+			"PanelPath": "Panel/CharactePanel"
+		},{
+			"PanelName": "LevelPanel",
+			"PanelPath": "Panel/LevelPanel"
+		},{
+			"PanelName": "LoginPanel",
+			"PanelPath": "Panel/LoginPanel"
+		},{
+			"PanelName": "MainScreenPanel",
+			"PanelPath": "Panel/MainScreenPanel"
+		},{
+			"PanelName": "QuestPanel",
+			"PanelPath": "Panel/QuestPanel"
+		},{
+			"PanelName": "SettingPanel",
+			"PanelPath": "Panel/SettingPanel"
+		},{
+			"PanelName": "StartPanel",
+			"PanelPath": "Panel/StartPanel"
+		},{
+			"PanelName": "TitlePanel",
+			"PanelPath": "Panel/TitlePanel"
+		}
+	]
+}
